@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spieler>
+    <gegnerID> </gegnerID>
+    <karteletzte>0</karteletzte>
+    <karte1>1</karte1>
+    <karte2>1</karte2>
+    <karte3>1</karte3>
+    <karte4>1</karte4>
+    <karte5>1</karte5>
+    <warten>0</warten>
+    <punkte>0</punkte>
+    <runde>0</runde>
+    <info> </info>
+</spieler>
